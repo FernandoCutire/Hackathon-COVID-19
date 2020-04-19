@@ -4,7 +4,9 @@
 
 ## Sí podemos ayudar
 
-> Esta bien, problemas siempre van a haber. Las crisis como esta, no ocurren seguido; así que es normal que nos agarre desprevenidos y con pocas opciones de transformarnos para poder continuar con nuestra labor. Los jóvenes nos adaptamos con mayor facilidad a los cambios y queremos brindar nuestra ayuda a estas escuelas para que puedan continuar con su labor de enseñar y también darle posibilidades a los estudiantes para que no se aburran en sus casas. 
+Esta bien, problemas siempre van a haber. Las crisis como esta, no ocurren seguido; así que es normal que nos agarre desprevenidos y con pocas opciones de transformarnos para poder continuar con nuestra labor. Los jóvenes nos adaptamos con mayor facilidad a los cambios y queremos brindar nuestra ayuda a estas escuelas para que puedan continuar con su labor de enseñar y también darle posibilidades a los estudiantes para que no se aburran en sus casas. 
+
+
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)  [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
